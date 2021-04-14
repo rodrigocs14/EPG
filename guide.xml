@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN Brasil">
+    <display-name lang="pt">CNN Brasil</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RAI International">
+    <display-name lang="pt">RAI International</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Família">
+    <display-name lang="pt">Rede Família</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Super">
+    <display-name lang="pt">Rede Super</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name lang="pt">Terra Viva</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Gazeta">
+    <display-name lang="pt">TV Gazeta</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
